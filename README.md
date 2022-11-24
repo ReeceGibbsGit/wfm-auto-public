@@ -3,6 +3,8 @@
 ## Overview
 WFM-Auto is a Puppeteer flow that automates simple timesheet entries into the WorkflowMax application. The reason we don't use the API for this is because of licensing costs
 
+_NOTE: This is a bit of a bodgey solution that was thrown together quite quickly so we're not following all of the design principles we should_😿
+
 ## Prerequisites
 In order to setup the WFM-Auto container on your local machine you will need the following:
 
